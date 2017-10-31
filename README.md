@@ -37,7 +37,7 @@ Service uninstalled
 ### Install Node Modules from package.json
 
 ```
-C:\BuildingBlocks> npm install
+C:\AutoStartNodeJS> npm install
 ```
 
 ### Original Discussion
